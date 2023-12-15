@@ -1,0 +1,2 @@
+В эту папку закинь ffmpeg.exe
+СКАЧАТЬ: https://ffmpeg.org/download.html
